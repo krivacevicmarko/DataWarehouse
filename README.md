@@ -1,5 +1,3 @@
-# DataWarehouse
-
 # Data Warehouse Design for an Agricultural Enterprise
 
 This project focuses on designing a data warehouse system for an agricultural company specializing in sheep farming and product sales. The goal is to create an efficient data model that enables comprehensive reporting and analysis of various aspects of the business, including livestock management, retail and wholesale operations, and product distribution.
